@@ -1,0 +1,15 @@
+/Users/arinafomina/Desktop/DZseminar4/dzseminar3/bin/Debug/net6.0/dzseminar3
+/Users/arinafomina/Desktop/DZseminar4/dzseminar3/bin/Debug/net6.0/dzseminar3.deps.json
+/Users/arinafomina/Desktop/DZseminar4/dzseminar3/bin/Debug/net6.0/dzseminar3.runtimeconfig.json
+/Users/arinafomina/Desktop/DZseminar4/dzseminar3/bin/Debug/net6.0/dzseminar3.dll
+/Users/arinafomina/Desktop/DZseminar4/dzseminar3/bin/Debug/net6.0/dzseminar3.pdb
+/Users/arinafomina/Desktop/DZseminar4/dzseminar3/obj/Debug/net6.0/dzseminar3.csproj.AssemblyReference.cache
+/Users/arinafomina/Desktop/DZseminar4/dzseminar3/obj/Debug/net6.0/dzseminar3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arinafomina/Desktop/DZseminar4/dzseminar3/obj/Debug/net6.0/dzseminar3.AssemblyInfoInputs.cache
+/Users/arinafomina/Desktop/DZseminar4/dzseminar3/obj/Debug/net6.0/dzseminar3.AssemblyInfo.cs
+/Users/arinafomina/Desktop/DZseminar4/dzseminar3/obj/Debug/net6.0/dzseminar3.csproj.CoreCompileInputs.cache
+/Users/arinafomina/Desktop/DZseminar4/dzseminar3/obj/Debug/net6.0/dzseminar3.dll
+/Users/arinafomina/Desktop/DZseminar4/dzseminar3/obj/Debug/net6.0/refint/dzseminar3.dll
+/Users/arinafomina/Desktop/DZseminar4/dzseminar3/obj/Debug/net6.0/dzseminar3.pdb
+/Users/arinafomina/Desktop/DZseminar4/dzseminar3/obj/Debug/net6.0/dzseminar3.genruntimeconfig.cache
+/Users/arinafomina/Desktop/DZseminar4/dzseminar3/obj/Debug/net6.0/ref/dzseminar3.dll
